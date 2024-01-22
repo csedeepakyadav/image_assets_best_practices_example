@@ -16,7 +16,8 @@ class _AssetImageWidgetState extends State<AssetImageWidget> {
 
     return Scaffold(
         body: Center(
-      child: Image.asset(
+      child: 
+      Image.asset(
         GlobalAssets.ASSETS_IMAGES_SAMPLE_1_JPEG,
         width: width * 0.2,
         height: height * 0.4,
