@@ -1,4 +1,0 @@
-#Mon Jan 22 19:25:06 IST 2024
-base.0=/Users/deepak/Desktop/autoasset/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
